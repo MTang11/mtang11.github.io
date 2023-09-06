@@ -1,17 +1,17 @@
-[comment]: <> (---)
+---
 
-[comment]: <> (layout: cv)
+layout: cv
 
-[comment]: <> (permalink: /cv/)
+permalink: /cv/
 
-[comment]: <> (title: cv)
+title: cv
 
-[comment]: <> (nav: true)
+nav: false
 
-[comment]: <> (nav_order: 4)
+nav_order: 4
 
-[comment]: <> (cv_pdf: example_pdf.pdf)
+cv_pdf: example_pdf.pdf
 
-[comment]: <> (description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.)
+description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
 
-[comment]: <> (---)
+---
