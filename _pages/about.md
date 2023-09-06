@@ -27,7 +27,7 @@ I am currently a researcher at [L3S Institute](https://www.l3s.de/), Leibniz Uni
 As a bioinformatics data scientist, I am interested in developing and applying machine learning algorithms to tackle society challenges such as cancer and aging. 
 My [most recent project](https://git.l3s.uni-hannover.de/tang/clinALL) is on developing a machine learning assisted clinical framework for oncology data integration, analysis and visualization. This framework is integrated into routine diagnostics, and support clinical decision-making and translational research in real time.
 
-I obtained my PhD from [Johns Hopkins Medical Institute, USA](https://www.hopkinsmedicine.org/), where I used a system biology approach to study PI3K/PTEN pathway and developed an excitable network model. I obtained a master degree in Bioinformatics from  [Freie Universität Berlin, Germany](https://www.fu-berlin.de/). My master thesis is to develop deep learning models for peptide acetylation. I obtained my bachelor degree from [University of Science and Technology, China](https://www.ustc.edu.cn/).
+I obtained my PhD from [Johns Hopkins Medical Institute, USA](https://www.hopkinsmedicine.org/), where I used a system biology approach to study PI3K/PTEN pathway and developed an excitable network model. I obtained a master degree in Bioinformatics from  [Freie Universität Berlin, Germany](https://www.fu-berlin.de/). My master thesis is on developing deep learning models for peptide acetylation. I obtained my bachelor degree from [University of Science and Technology, China](https://www.ustc.edu.cn/).
 
 You are welcome to contact me at michelletang11 (at) gmail (dot) com for scientific discussions and collaborations.
 
@@ -36,6 +36,8 @@ You are welcome to contact me at michelletang11 (at) gmail (dot) com for scienti
 **Tang M**, Antić Ž, Fardzadeh P, Pietzsch S, Schröder C, Eberhardt A, et al. _An AI-assisted clinical framework to facilitate diagnostics and translational discovery in hematologic neoplasia._  Submitted. [Git Repository](https://git.l3s.uni-hannover.de/tang/clinALL).
 
 Poker Y, von Hardenberg S, Hofmann W, **Tang M**, Baumann U, Schwerk N, et al. _Systematic genetic analysis of pediatric patients with autoinflammatory diseases._ **Front Genet.** 2023;14:1065907. 
+
+Schäfer J, Tang M, Luu D, Bergmann AK, Wiese L. _Graph4Med: a web application and a graph database for visualizing and analyzing medical databases.- **BMC Bioinformatics.** 2022 Dec 12;23(1):537. 
 
 Tang,M.....
 
