@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a researcher at [the L3S Institute](https://www.l3s.de/the-l3s/), Leibniz University Hannover, Germany.
+I am currently a senior researcher at [the L3S Institute](https://www.l3s.de/the-l3s/), Leibniz University Hannover, Germany.
 
 As a bioinformatics data scientist, I am interested in developing and applying machine learning algorithms to tackle social challenges such as cancer and aging. 
 My [most recent project](https://git.l3s.uni-hannover.de/tang/clinALL) is on developing a machine learning assisted clinical framework for oncology data integration, analysis and visualization. This framework is incorporated into routine diagnostics of acute lymphoblastic leukemia, assisting clinicians in patient subtyping and decision-making.
