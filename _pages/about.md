@@ -8,8 +8,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>“I have no special talents. I am only passionately curious.”</p>
-    <p>—- Albert Einstein</p>
+
+[comment]: <> (    <p>“I have no special talents. I am only passionately curious.”</p>)
+
+[comment]: <> (    <p>—- Albert Einstein</p>)
 
 news: false  # includes a list of news items
 latest_posts: false # includes a list of the newest posts

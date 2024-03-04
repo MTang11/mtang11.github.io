@@ -14,7 +14,7 @@ nav_order: 1
 
 ---
 
-**Tang M**, Antić Ž, Fardzadeh P, Pietzsch S, Schröder C, Eberhardt A, et al. _An AI-assisted clinical framework to facilitate diagnostics and translational discovery in hematologic neoplasia._  under revision. [Git Repository](https://git.l3s.uni-hannover.de/tang/clinALL).
+**Tang M**, Antić Ž, Fardzadeh P, Pietzsch S, Schröder C, Eberhardt A, et al. _An AI-assisted clinical framework to facilitate diagnostics and translational discovery in hematologic neoplasia._  Under revision. [Git Repository](https://git.l3s.uni-hannover.de/tang/clinALL).
 
 **Tang M**, Antic Z, Fardzadeh P, Schröder C, Pietzsch S, Lentes J, et al. _A machine learning based clinical platform for cancer subtyping and data integration in hematological malignancies._ **Annals of Oncology.** 2023 Oct 1;34:S550.
 
