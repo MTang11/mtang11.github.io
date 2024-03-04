@@ -14,7 +14,9 @@ nav_order: 1
 
 ---
 
-**Tang M**, Antić Ž, Fardzadeh P, Pietzsch S, Schröder C, Eberhardt A, et al. _An AI-assisted clinical framework to facilitate diagnostics and translational discovery in hematologic neoplasia._  Submitted. [Git Repository](https://git.l3s.uni-hannover.de/tang/clinALL).
+**Tang M**, Antić Ž, Fardzadeh P, Pietzsch S, Schröder C, Eberhardt A, et al. _An AI-assisted clinical framework to facilitate diagnostics and translational discovery in hematologic neoplasia._  under revision. [Git Repository](https://git.l3s.uni-hannover.de/tang/clinALL).
+
+**Tang M**, Antic Z, Fardzadeh P, Schröder C, Pietzsch S, Lentes J, et al. _A machine learning based clinical platform for cancer subtyping and data integration in hematological malignancies._ **Annals of Oncology.** 2023 Oct 1;34:S550.
 
 Poker Y, von Hardenberg S, Hofmann W, **Tang M**, Baumann U, Schwerk N, et al. _Systematic genetic analysis of pediatric patients with autoinflammatory diseases._ **Front Genet.** 2023;14:1065907. 
 
@@ -26,7 +28,7 @@ Chouvarine P, Antić Ž, Lentes J, Schröder C, Alten J, Brüggemann, [et al., i
 
 Gao R, Zhao S, Jiang X, Sun Y, Zhao S, Gao J, [et al., including **Tang M**] _A large-scale screen reveals genes that mediate electrotaxis in Dictyostelium discoideum._ **Sci Signal.** 2015 May 26;8(378):ra50. 
 
-**Tang M**, Wang M, Shi C, Iglesias PA, Devreotes PN, Huang CH. _Evolutionarily conserved coupling of adaptive and excitable networks mediates eukaryotic chemotaxis._ **Nat Commun.** 2014 Oct 27;5:5175.
+**Tang M**<sup>#</sup>, Wang M, Shi C, Iglesias PA, Devreotes PN, Huang CH<sup>#</sup>. _Evolutionarily conserved coupling of adaptive and excitable networks mediates eukaryotic chemotaxis._ **Nat Commun.** 2014 Oct 27;5:5175. <sup>#</sup> equal contributions
 
 Huang CH<sup>#</sup>, **Tang M**<sup>#</sup>, Shi C, Iglesias PA, Devreotes PN. _An excitable signal integrator couples to an idling cytoskeletal oscillator to drive cell migration._ **Nat Cell Biol.** 2013 Nov;15(11):1307–16. <sup>#</sup> equal contributions
 
