@@ -13,7 +13,9 @@ nav: true
 nav_order: 1
 
 ---
-Steiner N, Li Z, Vosoughi O, Schrader J, Roy S, Nejdl W, **Tang M**. _A systematic evaluation of single-cell foundation models on cell-type classification task. Submitted to **WSDM Conference** Day Presentation.
+**Total citations: 754**
+
+Steiner N, Li Z, Vosoughi O, Schrader J, Roy S, Nejdl W, **Tang M**. _A systematic evaluation of single-cell foundation models on cell-type classification task._ Submitted to **WSDM Conference** Day Presentation.
 
 **Tang M**, Antić Ž, Fardzadeh P, Pietzsch S, Schröder C, Eberhardt A, et al. _An AI-assisted clinical framework to facilitate diagnostics and translational discovery in hematologic neoplasia._  **eBioMedicine.** 2024 Jun;104:105171.
 
