@@ -13,8 +13,9 @@ nav: true
 nav_order: 1
 
 ---
+Steiner N, Li Z, Vosoughi O, Schrader J, Roy S, Nejdl W, **Tang M**. _A systematic evaluation of single-cell foundation models on cell-type classification task. Submitted to **WSDM Conference** Day Presentation.
 
-**Tang M**, Antić Ž, Fardzadeh P, Pietzsch S, Schröder C, Eberhardt A, et al. _An AI-assisted clinical framework to facilitate diagnostics and translational discovery in hematologic neoplasia._  Under revision. [Git Repository](https://git.l3s.uni-hannover.de/tang/clinALL).
+**Tang M**, Antić Ž, Fardzadeh P, Pietzsch S, Schröder C, Eberhardt A, et al. _An AI-assisted clinical framework to facilitate diagnostics and translational discovery in hematologic neoplasia._  **eBioMedicine.** 2024 Jun;104:105171.
 
 Froese N, Szaroszyk M, Galuppo P, Visker JR, [et al., including **Tang M**]. _Hypoxia Attenuates Pressure Overload‐Induced Heart Failure._ **Journal of the American Heart Association.** 2024 Feb 6;13(3):e033553.
 
