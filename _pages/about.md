@@ -25,7 +25,7 @@ I work at the interface of **artificial intelligence (AI) and biomedicine**, wit
 
 Currently, my focus is on (1) **biological LLMs** -- especially single-cell foundation models -- for disease modeling and drug-response prediction; and (2) **AI agent systems** that can plan, reason, and act across heterogeneous, real-world biomedical data by leveraging LLM multi-step reasoning, retrieval-augmented generation, and real-time tool usage.
 
-Previously I developed a machine-learning-assisted clinical framework for oncology data integration, analysis and visualization. This framework is incorporated into routine diagnostics of acute lymphoblastic leukemia, assisting clinicians in patient subtyping and decision-making.
+Previously I developed **a machine-learning-assisted clinical framework** for oncology data integration, analysis and visualization. This framework is incorporated into routine diagnostics of acute lymphoblastic leukemia, assisting clinicians in patient subtyping and decision-making.
 
 I obtained my PhD from [Johns Hopkins Medical Institute, USA](https://www.hopkinsmedicine.org/), where I used a system biology approach to study the PI3K/PTEN pathway and developed an excitable network model. I obtained a master's degree from  [Freie Universität Berlin, Germany](https://www.fu-berlin.de/). My master thesis is on developing deep learning models for peptide acetylation. <!--I obtained my bachelor's degree from [University of Science and Technology, China](https://www.ustc.edu.cn/).-->
 
