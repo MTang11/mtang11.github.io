@@ -27,7 +27,7 @@ Currently, my focus is on (1) **biological LLMs** -- especially single-cell foun
 
 Previously I developed a machine-learning-assisted clinical framework for oncology data integration, analysis and visualization. This framework is incorporated into routine diagnostics of acute lymphoblastic leukemia, assisting clinicians in patient subtyping and decision-making.
 
-I obtained my PhD from [Johns Hopkins Medical Institute, USA](https://www.hopkinsmedicine.org/), where I used a system biology approach to study the PI3K/PTEN pathway and developed an excitable network model. I obtained a master's degree in Bioinformatics from  [Freie Universität Berlin, Germany](https://www.fu-berlin.de/). My master thesis is on developing deep learning models for peptide acetylation. <!--I obtained my bachelor's degree from [University of Science and Technology, China](https://www.ustc.edu.cn/).-->
+I obtained my PhD from [Johns Hopkins Medical Institute, USA](https://www.hopkinsmedicine.org/), where I used a system biology approach to study the PI3K/PTEN pathway and developed an excitable network model. I obtained a master's degree from  [Freie Universität Berlin, Germany](https://www.fu-berlin.de/). My master thesis is on developing deep learning models for peptide acetylation. <!--I obtained my bachelor's degree from [University of Science and Technology, China](https://www.ustc.edu.cn/).-->
 
 You are welcome to contact me at michelletang11 (at) gmail (dot) com for scientific discussions and collaborations. 
 
