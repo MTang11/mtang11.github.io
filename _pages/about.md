@@ -23,7 +23,7 @@ I am currently a researcher at [the L3S Institute](https://www.l3s.de/the-l3s/),
 
 I work at the interface of **artificial intelligence (AI) and biomedicine**, with the long term goal of developing and applying AI/ML algorithms to tackle societal challenges, such as cancer and aging. 
 
-Currently, my focus is on (1) **biological LLMs** -- especially single-cell foundation models -- for disease modeling and drug-response prediction; and (2) **AI agent systems** that can plan, reason, and act across heterogeneous, real-world biomedical data by leveraging LLM multi-step reasoning, retrieval-augmented generation, and real-time tool usage.
+My current research centers on (1) **biological LLMs** -- especially single-cell foundation models -- for disease modeling and drug-response prediction; and (2) **AI agent systems** that can plan, reason, and act across heterogeneous, real-world biomedical data by leveraging LLM multi-step reasoning, retrieval-augmented generation, and real-time tool usage.
 
 Previously I developed **a machine-learning-assisted clinical framework** for oncology data integration, analysis and visualization. This framework is incorporated into routine diagnostics of acute lymphoblastic leukemia, assisting clinicians in patient subtyping and decision-making.
 
