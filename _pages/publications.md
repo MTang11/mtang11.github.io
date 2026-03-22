@@ -13,7 +13,9 @@ nav: true
 nav_order: 1
 
 ---
-**Total citations: 811**
+**Total citations: 839**
+
+Blezinger A, Nejl W, **Tang M**. _Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency._  arXiv preprint 2025 https://doi.org/10.48550/arXiv.2602.00151
 
 Rössner T, Balke J, **Tang M**. _FUSED: Cross-domain integration of foundation models for cancer drug response prediction._  bioRxiv preprint 2025 https://doi.org/10.1101/2025.09.30.679434
 
