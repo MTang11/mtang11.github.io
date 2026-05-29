@@ -13,7 +13,9 @@ nav: true
 nav_order: 1
 
 ---
-**Total citations: 839**
+**Total citations: 854**
+
+Klamt T, Nejl W, **Tang M**. _Decomposing the Generalization Gap in PROTAC Activity Prediction: Variance Attribution and the Inter-Laboratory Ceiling_  arXiv 2026 https://arxiv.org/abs/2605.11764
 
 Blezinger A, Nejl W, **Tang M**. _Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency._  arXiv 2026 https://doi.org/10.48550/arXiv.2602.00151
 
